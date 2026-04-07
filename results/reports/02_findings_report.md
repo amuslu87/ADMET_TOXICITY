@@ -1,6 +1,6 @@
 # Findings Report: Drug Toxicity Prediction Using Molecular Fingerprints and Machine Learning
 
-**Project:** ADMET Toxicity Prediction Portfolio  
+**Project:** ADMET Toxicity Prediction Project 
 **Author:** Matt Muslu  
 **Date:** April 2026  
 **Dataset:** Tox21 — 7,831 compounds × 12 toxicity assays
